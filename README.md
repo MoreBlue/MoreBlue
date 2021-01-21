@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 <h2> Hi, I'm Payne Chang's GitHub! <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/meow.gif" width="50"></h2>
-<img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoomini.gif' width='200"'>
+<img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoomini.gif' width='60"'>
 
 ### <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/fly.gif" width="50"> A little more about me...  
 
