@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&theme=radical) 
+![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&show_icons=true&theme=radical) 
+
 
 
 <!--
