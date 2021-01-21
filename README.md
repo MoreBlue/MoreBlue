@@ -9,7 +9,7 @@
 
 ```javascript
  class WhoAmI:
- 	user = '张҉鹏'
+ 	user = 'Payne Chang'
 	current_edu = "打工多年老码农"
 	hobbies = [
         'Surfing on the Internet',
