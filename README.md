@@ -13,8 +13,8 @@
 	current_edu = "打工多年老码农"
 	hobbies = [
         'Surfing on the Internet',
-        'Watching movies',
         'Browsing TikTok',
+        'Watching movies',
 	'Being up all Night chasing that ONE BUG...'
 			]
 	
@@ -35,6 +35,8 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png) |
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ### 💼 Where i am currently working at/as
 
 - [Make My Day](https://) 💼 
@@ -44,16 +46,12 @@
 
 ![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&show_icons=true&theme=radical) 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 ---
-
-
 
 
 <!--
