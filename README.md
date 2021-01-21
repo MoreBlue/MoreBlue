@@ -29,6 +29,8 @@
 		# Assume 10 more awesome ambitions here  ;)
 ```
 
+![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&show_icons=true&theme=radical) 
+
 ### My top 10 technologies-
 
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png) |
@@ -42,8 +44,6 @@
 <!--
 - [Open World: Freelance](https://stephenajulu.com)
 -->
-
-![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&show_icons=true&theme=radical) 
 
 
 
