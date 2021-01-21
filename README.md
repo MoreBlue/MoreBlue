@@ -29,7 +29,11 @@
 		# Assume 10 more awesome ambitions here  ;)
 ```
 
+---
+
 ![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&show_icons=true&theme=radical) 
+
+---
 
 ### My top 10 technologies-
 
@@ -37,6 +41,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/h5.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/ps.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/markdown.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/android.png) |
 
+---
 
 ### 💼 Where i am currently working at/as
 
@@ -45,7 +50,7 @@
 - [Open World: Freelance](https://stephenajulu.com)
 -->
 
-
+---
 
 <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/bottom.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
