@@ -1,12 +1,10 @@
 
 
-![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&show_icons=true&theme=radical) 
+
+## Hi there 👋
 
 <h2> Hi, I'm Payne Chang's GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
-
-### Hi there 👋
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -44,6 +42,7 @@
 - [Open World: Freelance](https://stephenajulu.com)
 -->
 
+![Payne Chang's github stats](https://github-readme-stats.vercel.app/api?username=MoreBlue&show_icons=true&theme=radical) 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
