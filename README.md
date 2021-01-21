@@ -37,7 +37,7 @@
 
 ### My top 10 technologies-
 
-| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/csharp.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/sql.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/vue.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/miniprogram.png) |
+| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/csharp.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/sql.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/miniprogram.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/vue.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/h5.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/ps.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/markdown.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/android.png) |
 
