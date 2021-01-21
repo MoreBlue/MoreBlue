@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 <h2> Hi, I'm Payne Chang's GitHub! <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/meow.gif" width="50"></h2>
-<img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoo.gif' width='200"'>
+<img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoomini.gif' width='200"'>
 
 ### <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/fly.gif" width="50"> A little more about me...  
 
@@ -33,9 +33,9 @@
 
 ### My top 10 technologies-
 
-| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/csharp.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/sql.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/javascript.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/vue.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/miniprogram.png) |
+| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/csharp.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/sql.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/vue.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/miniprogram.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/h5.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/node.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/ps.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/markdown.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/android.png) |
+| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/h5.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/ps.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/markdown.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/android.png) |
 
 
 ### 💼 Where i am currently working at/as
