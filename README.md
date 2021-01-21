@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 <h2> Hi, I'm Payne Chang's GitHub! <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/meow.gif" width="50"></h2>
-<img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoomini.gif' width='60"'>
+<img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoomini.gif' width='50"'>
 
 ### <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/fly.gif" width="50"> A little more about me...  
 
@@ -16,7 +16,7 @@
         'Browsing TikTok',
         'Watching movies',
 	'Being up all Night chasing that ONE BUG...'
-			]
+		]
 	
 	def getCity():
 		retrun Shandong_China()
@@ -57,6 +57,7 @@
 
 ---
 
+💬Wechat:vs2065
 
 <!--
 **MoreBlue/MoreBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
