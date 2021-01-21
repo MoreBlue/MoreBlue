@@ -2,10 +2,10 @@
 
 
 ## Hi there 👋
-<h2> Hi, I'm Payne Chang's GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h2> Hi, I'm Payne Chang's GitHub! <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/meow.gif" width="50"></h2>
+<img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoo.gif' width='200"'>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/fly.gif" width="50"> A little more about me...  
 
 ```javascript
  class WhoAmI:
@@ -33,9 +33,9 @@
 
 ### My top 10 technologies-
 
-| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/csharp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png) |
+| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/csharp.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/sql.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/javascript.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/vue.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/miniprogram.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png) |
+| ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/h5.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/node.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/ps.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/markdown.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/android.png) |
 
 
 ### 💼 Where i am currently working at/as
@@ -47,7 +47,7 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/bottom.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 ---
