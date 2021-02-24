@@ -40,9 +40,9 @@
 | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/csharp.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/sql.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/miniprogram.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/vue.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/h5.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/ps.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/markdown.png) | ![](https://github.com/MoreBlue/MoreBlue/blob/main/badges/android.png) |
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreBlue&layout=compact)](https://github.com/MoreBlue)
 ---
-
 ### 💼 Where i am currently working at/as
 
 - [Make My Day](https://) 💼 
