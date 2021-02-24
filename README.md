@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreBlue)](www.baidu.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreBlue&layout=compact)](https://github.com/MoreBlue)
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{MoreBlue++})
