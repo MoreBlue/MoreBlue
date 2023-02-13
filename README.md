@@ -2,15 +2,15 @@
 
 
 ## Hi there 👋
-<h2> Hi, I'm Payne Chang's GitHub! <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/meow.gif" width="50"></h2>
+<h2> Hi, I'm Preston Zhang's GitHub! <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/meow.gif" width="50"></h2>
 <img align='right' src='https://github.com/MoreBlue/MoreBlue/blob/main/beckon/gitdudoomini.gif' width='50"'>
 
 ### <img src="https://github.com/MoreBlue/MoreBlue/blob/main/beckon/fly.gif" width="50"> A little more about me...  
 
 ```javascript
  class WhoAmI:
- 	user = 'Payne Chang'
-	current_edu = "打工多年老码农"
+ 	user = 'Preston Zhang'
+	current_edu = "打工人"
 	hobbies = [
         'Surfing on the Internet',
         'Browsing TikTok',
